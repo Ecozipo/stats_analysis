@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-from stats.router import data
 
 app = FastAPI()
 
